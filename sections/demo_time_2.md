@@ -1,3 +1,3 @@
 ### Demo Time
 
-[Rule 110](https://jsfiddle.net/theJian/9Lt80crf/)
+[finite-state machine](https://jsfiddle.net/theJian/j2thgo0e/)
