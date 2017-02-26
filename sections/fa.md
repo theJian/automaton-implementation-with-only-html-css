@@ -1,4 +1,4 @@
-### A finite automaton
+### A finite automaton(FA)
 
 <ul>
 	<li class="fragment fade-left">a finite set of states</li>
